@@ -45,3 +45,5 @@ while loop < 3:
     print("What an eventful day in " + loc + ", and an exhausting one too!")
 
     loop += 1
+
+    # Thanks for playing!
