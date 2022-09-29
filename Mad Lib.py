@@ -6,7 +6,7 @@
 
 loop = 1
 
-while loop < 3:
+while loop <= 3:
     # Questions for the Mad Lib
     print("Answer the following questions and your responses will be put into a Mad Lib!")
 
@@ -26,7 +26,7 @@ while loop < 3:
 
     adj = input("Choose an adjective: ").capitalize()
 
-    loc = input("Choose a popular location: ").capitalize()
+    loc = input("Choose a popular location: ")
 
     which_lib = input("Choose which Mad Lib you'd like; [1], [2], or [3]: ")
 
