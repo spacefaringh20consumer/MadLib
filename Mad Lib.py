@@ -28,7 +28,7 @@ while loop < 3:
 
     loc = input("Choose a popular location: ").capitalize()
 
-    which_lib = input("Choose which Mad Lib you'd like; [1], [2], or [3] :")
+    which_lib = input("Choose which Mad Lib you'd like; [1], [2], or [3]: ")
 
     # Previous inputs will be plugged into the predetermined phrases below
     if which_lib == "1":
