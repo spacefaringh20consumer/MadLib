@@ -1,6 +1,6 @@
 # This is my Mad Lib project. Enjoy!
 
-# Created by hydr0, last updated on 9/28/2022
+# Created by hydr0, last updated on 9/29/2022
 
 # The loop allows the Mad Lib to be played up to three times. This also gives three different choices for Mad Libs!
 
@@ -50,7 +50,7 @@ while loop < 3:
         print("-------------------------------------------------------------------------------------------------------")
 
     elif which_lib == "2":
-        # Finish This!
+
         print("Hey " + name + ", how's it going?")
 
         print("I could be better, see, my " + noun + " and I went to " + loc + " this weekend.")
@@ -66,7 +66,7 @@ while loop < 3:
         print("-------------------------------------------------------------------------------------------------------")
 
     elif which_lib == "3":
-        # Finish This too!
+
         print("My name is " + name + ". The Superhero of " + loc + " and the defender of " + plural + "!")
 
         print("My arch-nemesis is The " + adj + " " + noun + "! ")
